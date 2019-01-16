@@ -23,7 +23,7 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 
 
 @title[LoRaWAN]
-+++?image=template/img/LoRaWAN-Overview.png&size=75%
++++?image=template/img/LoRaWAN-Overview.png&size=65%
 
 ---
 @title[Radio]
