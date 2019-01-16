@@ -23,7 +23,7 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 
 ---
 @title[LoRaWAN]
-+++?image=template/LoRaWAN-Overview.png
++++?image=template/img/LoRaWAN-Overview.png
 
 ---
 
