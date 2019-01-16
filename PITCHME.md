@@ -23,9 +23,28 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 
 ---
 @title[LoRaWAN]
-
 ![PIC](template/img/LoRaWAN-Overview.png)
-<br><br>
+
+---@title[Radio]
+# Protocoles
+
+Les protocoles radio sont définis par [Lora Alliance](https://lora-alliance.org/)  
+
+# Bandes de Fréquences
+
+En Europe, LoRaWAN utilise la bande 863-870 MHz. Ces fréquences sont utilisables par tous, sans conditions de license.
+
+# Cycles d'utilisation
+
+Le régulateur impose des cycles d'utilisation spécifiques pour chaque sous bande.
+
+Pour les bandes LoRaWAN la valeur est de 1% voire 0.1%.
+
+Ceci implique d'avoir un réseau performant qui optimise l'envoi des données sur les canaux les moins chargé.
+
+Les développeurs doivent optimiser les messages transmis et les fréquences d'émission.
+
+
 
 ---?include=template/md/split-screen/PITCHME.md
 
