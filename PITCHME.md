@@ -38,7 +38,7 @@ Radio
 
 - Les **protocoles radio** sont définis par [Lora Alliance](https://lora-alliance.org/)  
 
-- Les **Bandes de Fréquences** utilisée par LoRa en Europe sont 863-870 MHz. Ces fréquences sont utilisables par tous, sans conditions de license.
+- Les **Bandes de Fréquences** utilisées par LoRa en Europe sont 863-870 MHz. Ces fréquences sont utilisables par tous, sans conditions de license.
 
 - Les **Cycles d'utilisation** imposés par le régulateur sont de 1% voire 0.1% selon les sous-bandes. Ceci implique d'avoir un réseau performant qui optimise l'envoi des données sur les canaux les moins chargé. Les développeurs doivent optimiser les messages transmis et les fréquences d'émission.
 
