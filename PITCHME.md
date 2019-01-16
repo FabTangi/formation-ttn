@@ -2,11 +2,11 @@
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+LoRa/TheThingsNetwork<br>*Formation 30 Janvier 2019*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+De l'objet à la donnée...
 @snapend
 
 ---
