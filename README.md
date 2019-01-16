@@ -2,7 +2,7 @@
 
 # GitPitch - Template utilisé pour formation TTN
 
-*THE FASTEST WAY FROM IDEA TO PRESENTATION*
+*Présentation de Lora/TTN*
 
-For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
+La documentation complète de l'outil est [là](https://gitpitch.com/docs/the-template).
 
