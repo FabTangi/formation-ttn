@@ -24,10 +24,8 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 ---
 @title[LoRaWAN]
 
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+![PIC](template/img/LoRaWAN-Overview.png)
+<br><br>
 
 ---?include=template/md/split-screen/PITCHME.md
 
