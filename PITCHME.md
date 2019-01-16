@@ -23,11 +23,11 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 
 
 @title[LoRaWAN]
-+++?image=template/img/LoRaWAN-Overview.png
++++?image=template/img/LoRaWAN-Overview.png&size=100%
 
 ---
 @title[Radio]
-
+## Radio
 @snap[west list-content-verbose span-100] 
 <br>
 @ul[](false)
@@ -36,13 +36,14 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 
 - Les **Bandes de Fréquences** utilisée par LoRa en Europe sont 863-870 MHz. Ces fréquences sont utilisables par tous, sans conditions de license.
 
-- Les **Cycles d'utilisation** imposés par le régulateur sont de 1% voire 0.1% selon les sous-bandes.
-Ceci implique d'avoir un réseau performant qui optimise l'envoi des données sur les canaux les moins chargé.
-Les développeurs doivent optimiser les messages transmis et les fréquences d'émission.
+- Les **Cycles d'utilisation** imposés par le régulateur sont de 1% voire 0.1% selon les sous-bandes. Ceci implique d'avoir un réseau performant qui optimise l'envoi des données sur les canaux les moins chargé. Les développeurs doivent optimiser les messages transmis et les fréquences d'émission.
 
 @ulend
 @snapend
 ---
+
+@title[Radio]
+## Radio
 
 ---?include=template/md/split-screen/PITCHME.md
 
