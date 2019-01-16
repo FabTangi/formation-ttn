@@ -10,7 +10,7 @@ De l'objet à la donnée...
 @snapend
 
 ---
-@title[Slide Markdown]
+@title[The Things Network]
 
 ## The Things Network
 
@@ -22,7 +22,7 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 <br><br>
 
 ---
-@title[Tip! Fullscreen]
+@title[LoRaWAN]
 
 ![TIP](template/img/tip.png)
 <br>
