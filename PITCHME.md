@@ -66,6 +66,35 @@ Modulation et taux de transfert
 @title[Papiers Académiques]
 [Papiers Académiques](https://www.thethingsnetwork.org/docs/lorawan/academic.html)
 
+---
+@title[Plan d'adressage Lora]
+
+Il existe dans LoRaWAN différents identifiants pour les terminaux, applications et passerelles 
+knows a number of identifiers for devices, applications and gateways.
+
+@snap[south-west list-content-concise span-100]
+@ol
+- DevEUI - 64 bit end-device identifier, EUI-64 (unique)
+- DevAddr - 32 bit device address (non-unique)
+- AppEUI - 64 bit application identifier, EUI-64 (unique)
+- GatewayEUI - 64 bit gateway identifier, EUI-64 (unique)
+@olend
+
+---
+@title[Terminaux]
+
+Terminaux
+
+Les terminaux LoRaWAN ont un identifiant unique de 64 bits (DevEUI) qui est assigné par le fondeur de la puce. 
+Mais ces identifiants peuvent être définis par le code.
+Cependant les communications sont faites à l'aide d'une adresse dynamique sur 32 bits (DevAddr). 7 bits sont définis pour The Things Network, les 25 restants sont attribués à chaque teminal lors de la procédure appelée **Activation** 
+
+
+Over-the-Air Activation (OTAA)
+
+Over-the-Air Activation (OTAA) est la manière préférée et sécurisée pour de se connecter avecThe Things Network. 
+Les terminaux effectuent une procédure d'attachement au réseau, au cours de laquelle une DevAddr et des clés de sécurité sont échangées.
+
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
