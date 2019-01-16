@@ -12,8 +12,14 @@ De l'objet à la donnée...
 ---
 @title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
+### La chaîne TheThings Network
 
+The Things Network permet à des objets basse consommation d'utiliser des passerelles longue portée pour se connecter à un réseau
+open-source décentralisé afin d'échanger des données avec des applications.
+
+Devices - Gateways - The Things Network - Applications
+
+(template/img/architecturettn.png)
 <br><br>
 
 @snap[south span-100 text-purple text-05]
