@@ -56,9 +56,9 @@ Modulation et taux de transfert
 <br>
 @ul[](false)
 
--La **modulation** LoRa est basée sur une technologie chirp d'étalement de spectre permettant un bon fonctionnement dans le cas de canaux bruités, de rebonds multiples, d'effet Doppler et ce même à basse puissance.
+- La **modulation** LoRa est basée sur une technologie chirp d'étalement de spectre permettant un bon fonctionnement dans le cas de canaux bruités, de rebonds multiples, d'effet Doppler et ce même à basse puissance.
 
--Le **taux de transfert** dépend de la largeur de bande utilisée et du facteur d'étalement.
+- Le **taux de transfert** dépend de la largeur de bande utilisée et du facteur d'étalement.
 Les largeurs des bandes LoRa sont de 125 kHz, 250 kHz ou 500 kHz, selon la région et le plan de fréquence.
 Le facteur d'étalement est choisit par le terminal. Il influence le temps utilisé pour transmettre une trame
 @ulend
