@@ -28,8 +28,8 @@ theme-override : template/css/PITCHME.css
 logo : template/img/logofablabmoy.png
 logo-position : top-left
 
-logo : template/img/TheThingsNetwork-logo-RGB.png
-logo-position : top-right
+#logo : template/img/TheThingsNetwork-logo-RGB.png
+#logo-position : top-right
 
 #
 # Footnote Setting
