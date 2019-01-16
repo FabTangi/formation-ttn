@@ -1,6 +1,6 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/the-template)
 
-# GitPitch - The Template
+# GitPitch - Template utilisé pour formation TTN
 
 *THE FASTEST WAY FROM IDEA TO PRESENTATION*
 
