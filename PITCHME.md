@@ -23,11 +23,15 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 
 
 @title[LoRaWAN]
-+++?image=template/img/LoRaWAN-Overview.png&size=100%
++++?image=template/img/LoRaWAN-Overview.png&size=75%
 
 ---
 @title[Radio]
-## Radio
+
+@snap[north-west]
+Radio
+@snapend
+
 @snap[west list-content-verbose span-100] 
 <br>
 @ul[](false)
