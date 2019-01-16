@@ -24,7 +24,7 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 ---
 @title[LoRaWAN]
 ![PIC](template/img/LoRaWAN-Overview.png)
-
+---
 ---@title[Radio]
 # Protocoles
 
@@ -44,7 +44,7 @@ Ceci implique d'avoir un réseau performant qui optimise l'envoi des données su
 
 Les développeurs doivent optimiser les messages transmis et les fréquences d'émission.
 
-
+---
 
 ---?include=template/md/split-screen/PITCHME.md
 
