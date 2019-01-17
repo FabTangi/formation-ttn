@@ -103,7 +103,7 @@ Les terminaux effectuent une procédure d'attachement au réseau, au cours de la
 
 ## Exemple de Code
 
-'''c
+@[
 typedef struct state {
 	uint16_t total_snd = 0; /**< total packets send */
 	uint16_t total_rcv = 0; /**< total packets received (excluding ack) */
@@ -113,7 +113,7 @@ typedef struct state {
 	uint8_t ant = 0; /**< number of last seen gateways */
 
 } state_t;
-'''
+]
 
 ---?include=template/md/split-screen/PITCHME.md
 
