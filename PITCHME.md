@@ -113,7 +113,6 @@ typedef struct state {
 	uint8_t ant = 0; /**< number of last seen gateways */
 
 } state_t;
-
 '''
 
 ---?include=template/md/split-screen/PITCHME.md
