@@ -72,10 +72,9 @@ Modulation et taux de transfert
 @snap[north-west] Il existe dans LoRaWAN différents identifiants pour les terminaux, applications et passerelles 
 @snapend
 
-
-
 @snap[west list-content-verbose span-100]
-@ul
+<br>
+@ul[](false)
 - DevEUI - Identifiant du Terminal sur 64 bit, EUI-64 (unique)
 - DevAddr - Adresse du Terminal sur 32 bit (non-unique)
 - AppEUI - Identifiant de l'Application sur 64 bit, EUI-64 (unique)
