@@ -98,6 +98,24 @@ Cependant les communications sont faites à l'aide d'une adresse dynamique sur 3
 Over-the-Air Activation (OTAA) est la manière préférée et sécurisée pour de se connecter avecThe Things Network. 
 Les terminaux effectuent une procédure d'attachement au réseau, au cours de laquelle une DevAddr et des clés de sécurité sont échangées.
 
+---
+@title[Exemple de Code]
+
+## Exemple de Code
+
+'''c
+typedef struct state {
+	uint16_t total_snd = 0; /**< total packets send */
+	uint16_t total_rcv = 0; /**< total packets received (excluding ack) */
+	uint8_t gps = 0; /**< nb gps sat */
+	int8_t rssi = 0; /**< last RSSI received value */
+	int8_t snr = 0; /**< last snr received value */
+	uint8_t ant = 0; /**< number of last seen gateways */
+
+} state_t;
+
+'''
+
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
