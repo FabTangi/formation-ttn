@@ -74,7 +74,7 @@ Modulation et taux de transfert
 
 
 
-@snap[south-west list-content-concise span-100]
+@snap[west list-content-verbose span-100]
 @ol
 - DevEUI - Identifiant du Terminal sur 64 bit, EUI-64 (unique)
 - DevAddr - Adresse du Terminal sur 32 bit (non-unique)
@@ -91,6 +91,8 @@ Les terminaux LoRaWAN ont un identifiant unique de 64 bits (DevEUI) qui est assi
 Mais ces identifiants peuvent être définis par le code.
 Cependant les communications sont faites à l'aide d'une adresse dynamique sur 32 bits (DevAddr). 7 bits sont définis pour The Things Network, les 25 restants sont attribués à chaque teminal lors de la procédure appelée **Activation** 
 
+---
+@title[Activation]
 
 ## Over-the-Air Activation (OTAA)
 
