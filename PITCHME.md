@@ -75,12 +75,12 @@ Modulation et taux de transfert
 
 
 @snap[west list-content-verbose span-100]
-@ol
+@ul
 - DevEUI - Identifiant du Terminal sur 64 bit, EUI-64 (unique)
 - DevAddr - Adresse du Terminal sur 32 bit (non-unique)
 - AppEUI - Identifiant de l'Application sur 64 bit, EUI-64 (unique)
 - GatewayEUI - Identifiant de la passerelle sur 64 bit, EUI-64 (unique)
-@olend
+@ulend
 
 ---
 @title[Terminaux]
