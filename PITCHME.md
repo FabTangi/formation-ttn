@@ -68,8 +68,8 @@ Modulation et taux de transfert
 
 ---
 @title[Plan d'adressage Lora]
-
-@snap[north-west] Il existe dans LoRaWAN différents identifiants pour les terminaux, applications et passerelles 
+@snap[north-west] 
+Il existe dans LoRaWAN différents identifiants pour les terminaux, applications et passerelles 
 @snapend
 
 @snap[west list-content-verbose span-100]
