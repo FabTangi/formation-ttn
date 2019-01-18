@@ -21,7 +21,7 @@ open-source décentralisé afin d'échanger des données avec des *applications*
 ![PIC](template/img/architecturettn.png)
 <br><br>
 
-
+---
 @title[LoRaWAN]
 +++?image=template/img/LoRaWAN-Overview.png&size=65%
 
@@ -99,47 +99,33 @@ Over-the-Air Activation (OTAA) est la manière préférée et sécurisée pour d
 Les terminaux effectuent une procédure d'attachement au réseau, au cours de laquelle une DevAddr et des clés de sécurité sont échangées.
 
 ---
-@title[Exemple de Code]
+@title[Exemple Concret]
 
-## Exemple de Code
+## Un exemple concret : Mesure Couverture Réseau
 
-@[
-typedef struct state {
-	uint16_t total_snd = 0; /**< total packets send */
-	uint16_t total_rcv = 0; /**< total packets received (excluding ack) */
-	uint8_t gps = 0; /**< nb gps sat */
-	int8_t rssi = 0; /**< last RSSI received value */
-	int8_t snr = 0; /**< last snr received value */
-	uint8_t ant = 0; /**< number of last seen gateways */
+![PIC](https://wiki.fablab-lannion.org/images/thumb/7/70/TTGodef.jpg/300px-TTGodef.jpg)
 
-} state_t;
-]
+---
+@title[Le code]
 
----?include=template/md/split-screen/PITCHME.md
+## Code de l'émetteur
 
----?include=template/md/sidebar/PITCHME.md
+[Code Arduino](https://github.com/FablabLannion/LoraWemosGPS/blob/master/firmware/LoraWemosGPS/LoraWemosGPS.ino)
 
----?include=template/md/list-content/PITCHME.md
+---
+@title[Coté Passerelle]
 
----?include=template/md/boxed-text/PITCHME.md
+## Trame reçue par la passerelle
 
----?include=template/md/image/PITCHME.md
+Mettre ici capture écran TTN
 
----?include=template/md/sidebox/PITCHME.md
+@title[Coté Application]
 
----?include=template/md/code-presenting/PITCHME.md
+## Trame reçue par l'Application
 
----?include=template/md/header-footer/PITCHME.md
+Mettre ici capture écran TTN Appli
 
----?include=template/md/quotation/PITCHME.md
 
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----?image=template/img/presenter.jpg
 @title[The Template Docs]
 
 @snap[north-west sign-off]
