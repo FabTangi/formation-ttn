@@ -116,14 +116,30 @@ Les terminaux effectuent une procédure d'attachement au réseau, au cours de la
 
 ## Trame reçue par la passerelle
 
-Mettre ici capture écran TTN
+Aller sur la [console](https://console.thethingsnetwork.org/)
 
+---
 @title[Coté Application]
 
 ## Trame reçue par l'Application
 
-Mettre ici capture écran TTN Appli
+Aller sur la [console](https://console.thethingsnetwork.org/)
 
+---
+@title[Points à compléter]
+
+-Utilisation de la radio (fair use)
+-Code Arduino pour objet LoRa
+-Code Python pour objet LoRa
+-Optimisation de la consommation éléctrique
+-Backend auto-hébergé
+
+---
+@title[Matériel Disponible]
+
+[Matériel LoRa](https://wiki.fablab-lannion.org/index.php?title=EquipementsLora)
+
+[Wiki LoRa](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa)
 
 @title[The Template Docs]
 
