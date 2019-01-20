@@ -149,4 +149,5 @@ https://maker.allthingstalk.com/
 - Code Python pour objet LoRa
 - Optimisation de la consommation éléctrique
 - Backend auto-hébergé
+- ...
 
