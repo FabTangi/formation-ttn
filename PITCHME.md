@@ -142,7 +142,7 @@ https://maker.allthingstalk.com/
 ---
 @title[Formations supplémentaires?]
 
-# Formations à venir ?
+## Formations à venir ?
 
 - Utilisation de la radio (fair use)
 - Code Arduino pour objet LoRa
