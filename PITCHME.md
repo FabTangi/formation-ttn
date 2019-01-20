@@ -126,13 +126,20 @@ Aller sur la [console](https://console.thethingsnetwork.org/)
 Aller sur la [console](https://console.thethingsnetwork.org/)
 
 ---
-@title[Points à compléter]
+@title[Exemple de back-end]
 
--Utilisation de la radio (fair use)
--Code Arduino pour objet LoRa
--Code Python pour objet LoRa
--Optimisation de la consommation éléctrique
--Backend auto-hébergé
+## Exemple de back-end :
+
+https://maker.allthingstalk.com/
+
+---
+@title[Formations supplémentaires?]
+
+- Utilisation de la radio (fair use)
+- Code Arduino pour objet LoRa
+- Code Python pour objet LoRa
+- Optimisation de la consommation éléctrique
+- Backend auto-hébergé
 
 ---
 @title[Matériel Disponible]
@@ -141,14 +148,3 @@ Aller sur la [console](https://console.thethingsnetwork.org/)
 
 [Wiki LoRa](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa)
 
-@title[The Template Docs]
-
-@snap[north-west sign-off]
-### **Now it's @color[#e58537](your) turn.**
-<br>
-#### Quickstart your next slide deck<br>with @size[1.4em](The GitPitch Template).
-@snapend
-
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
