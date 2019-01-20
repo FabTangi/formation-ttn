@@ -133,18 +133,20 @@ Aller sur la [console](https://console.thethingsnetwork.org/)
 https://maker.allthingstalk.com/
 
 ---
+@title[Matériel Disponible]
+
+[Matériel LoRa](https://wiki.fablab-lannion.org/index.php?title=EquipementsLora)
+
+[Wiki LoRa](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa)
+
+---
 @title[Formations supplémentaires?]
+
+# Formations à venir ?
 
 - Utilisation de la radio (fair use)
 - Code Arduino pour objet LoRa
 - Code Python pour objet LoRa
 - Optimisation de la consommation éléctrique
 - Backend auto-hébergé
-
----
-@title[Matériel Disponible]
-
-[Matériel LoRa](https://wiki.fablab-lannion.org/index.php?title=EquipementsLora)
-
-[Wiki LoRa](https://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:LoRa)
 
